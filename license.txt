@@ -7,7 +7,8 @@ Creative Commons Attribution-Noncommercial 4.0 International License
 The repository is modelled after (and partially adopts code from) 
 Christoph Lassner's Generating People project.
 https://github.com/classner/generating_people.
-The images in demo/up/input are from the Unite the People dataset: 
+The images in demo/up/input as well as the data used to train the 
+provided models are from his Unite the People dataset: 
 http://files.is.tuebingen.mpg.de/classner/up/
 
 For these portions, his license applies:

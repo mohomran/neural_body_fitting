@@ -1,3 +1,10 @@
+*~
+*.pyc
+experiments/*
+experiments/config/*
+!experiments/config/template/*.py
+!experiments/config/demo_up/*.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

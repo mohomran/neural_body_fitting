@@ -1,0 +1,3 @@
+[submodule "external/up"]
+	path = external/up
+	url = https://github.com/mohomran/up
